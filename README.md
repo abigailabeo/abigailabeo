@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning and working on writing supervised learning algorithms from scratch
 - 👯 I’m looking to collaborate on any Machine Learning projects
 - ⚡ Fun fact: I love reading novels, watching Chinese and Turkish series, and listening to Christian and nice music.
+- 📫 I am reachable by email: abigailabeo@gmail.com or aabeo@aimsammi.org
+
+
 <!--
 **abigailabeo/abigailabeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
