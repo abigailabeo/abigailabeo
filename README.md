@@ -1,5 +1,6 @@
 ### Hi 👋  I am Abigail Naa Amankwaa Abeo 
 
+- 😄 I'm a PhD Student at Dublin City University (DCU) and ML-Labs
 - 🔭 I’m interested in Machine Learning Research & Engineering
 - 🌱 I’m currently learning and working on writing supervised learning algorithms from scratch
 - 👯 I’m looking to collaborate on any Machine Learning projects
